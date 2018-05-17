@@ -1,0 +1,14 @@
+{
+  "country": "US",
+  "edition": "Developer",
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled"
+    ],
+    "disabled": []
+  },
+  "orgName": "Your Company",
+  "adminEmail": "yourname@example.com",
+  "features": ["Communities", "CustomerSelfService", "Sites", "AuthorApex"],
+  "hasSampleData": true
+}
