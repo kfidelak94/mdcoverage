@@ -1,0 +1,225 @@
+Metadata Type,Metadata API,Source Tracking (force:source:push/pull),Unlocked Packaging
+AccessControlPolicy,TRUE,Expanded Source Tracking (Beta),Requires Package without a Namespace
+AccountSettings,TRUE,TRUE,FALSE
+ActionLinkGroupTemplate,TRUE,TRUE,TRUE
+ActivitiesSettings,TRUE,TRUE,FALSE
+AddressSettings,TRUE,TRUE,FALSE
+AnalyticSnapshot,TRUE,TRUE,TRUE
+ApexClass,TRUE,TRUE,TRUE
+ApexComponent,TRUE,TRUE,TRUE
+ApexPage,TRUE,TRUE,TRUE
+ApexTestSuite,TRUE,TRUE,Requires Package without a Namespace
+ApexTrigger,TRUE,TRUE,TRUE
+AppMenu,TRUE,FALSE,FALSE
+ApprovalProcess,TRUE,TRUE,FALSE
+AssignmentRules,TRUE,TRUE,FALSE
+AuraDefinitionBundle,TRUE,TRUE,TRUE
+AuthProvider,TRUE,TRUE,Requires Package without a Namespace
+AutoResponseRules,TRUE,TRUE,FALSE
+Bot,TRUE,FALSE,Requires Package without a Namespace
+BotVersion,TRUE,FALSE,Requires Package without a Namespace
+BrandingSet,TRUE,TRUE,TRUE
+BusinessHoursEntry,TRUE,TRUE,TRUE
+BusinessHoursSettings,TRUE,TRUE,FALSE
+BusinessProcess,TRUE,TRUE,TRUE
+CallCenter,TRUE,TRUE,Requires Package without a Namespace
+CampaignInfluenceModel,TRUE,TRUE,TRUE
+CaseSettings,TRUE,TRUE,FALSE
+CaseSubjectParticle,TRUE,Expanded Source Tracking (Beta),TRUE
+CaseTeam,TRUE,Expanded Source Tracking (Beta),TRUE
+CaseTeamRole,TRUE,Expanded Source Tracking (Beta),TRUE
+Certificate,TRUE,Expanded Source Tracking (Beta),TRUE
+ChannelLayout,TRUE,TRUE,TRUE
+ChatterAnswersSettings,TRUE,TRUE,FALSE
+ChatterExtension,TRUE,TRUE,TRUE
+CleanDataService,TRUE,TRUE,TRUE
+CMSConnectSource,TRUE,TRUE,Requires Package without a Namespace
+Community,TRUE,TRUE,FALSE
+CommunityTemplateDefinition,TRUE,TRUE,TRUE
+CommunityThemeDefinition,TRUE,TRUE,TRUE
+CompactLayout,TRUE,TRUE,TRUE
+CompanySettings,TRUE,TRUE,FALSE
+ConnectedApp,TRUE,FALSE,FALSE
+ContentAsset,TRUE,TRUE,TRUE
+ContractSettings,TRUE,TRUE,FALSE
+CorsWhitelistOrigin,TRUE,TRUE,TRUE
+CspTrustedSite,TRUE,TRUE,TRUE
+CustomApplication,TRUE,TRUE,TRUE
+CustomApplicationComponent,TRUE,TRUE,TRUE
+CustomDataType,TRUE,TRUE,TRUE
+CustomFeedFilter,TRUE,TRUE,FALSE
+CustomField,TRUE,TRUE,TRUE
+CustomLabels,TRUE,TRUE,TRUE
+CustomMetadata,TRUE,TRUE,TRUE
+CustomNotificationType,TRUE,TRUE,TRUE
+CustomObject,TRUE,TRUE,TRUE
+CustomObjectTranslation,TRUE,TRUE,TRUE
+CustomPageWebLink,TRUE,TRUE,TRUE
+CustomPermission,TRUE,TRUE,TRUE
+CustomSite,TRUE,TRUE,FALSE
+CustomTab,TRUE,TRUE,TRUE
+CustomValue,TRUE,Expanded Source Tracking (Beta),TRUE
+Dashboard,TRUE,TRUE,TRUE
+DashboardFolder,TRUE,TRUE,TRUE
+DataCategoryGroup,TRUE,FALSE,TRUE
+DataPipeline,TRUE,Expanded Source Tracking (Beta),TRUE
+DelegateGroup,TRUE,Expanded Source Tracking (Beta),TRUE
+Division,TRUE,Expanded Source Tracking (Beta),TRUE
+Document,TRUE,TRUE,TRUE
+DocumentFolder,TRUE,TRUE,TRUE
+DuplicateRule,TRUE,TRUE,TRUE
+EclairGeoData,TRUE,FALSE,TRUE
+EmailFolder,TRUE,TRUE,TRUE
+EmailServicesFunction,TRUE,FALSE,TRUE
+EmailTemplate,TRUE,TRUE,TRUE
+EmbeddedServiceBranding,TRUE,TRUE,TRUE
+EmbeddedServiceConfig,TRUE,TRUE,TRUE
+EmbeddedServiceFieldService,TRUE,TRUE,TRUE
+EmbeddedServiceLiveAgent,TRUE,TRUE,TRUE
+EntitlementProcess,TRUE,TRUE,Requires Package without a Namespace
+EntitlementSettings,TRUE,TRUE,FALSE
+EntitlementTemplate,TRUE,TRUE,TRUE
+EntityImplements,TRUE,Expanded Source Tracking (Beta),TRUE
+EscalationRules,TRUE,TRUE,FALSE
+EventDelivery,TRUE,TRUE,TRUE
+EventSubscription,TRUE,TRUE,TRUE
+ExternalDataSource,TRUE,TRUE,TRUE
+ExternalServiceRegistration,TRUE,TRUE,TRUE
+FeatureParameterBoolean,TRUE,TRUE,TRUE
+FeatureParameterDate,TRUE,TRUE,TRUE
+FeatureParameterInteger,TRUE,TRUE,TRUE
+FieldServiceSettings,TRUE,TRUE,FALSE
+FieldSet,TRUE,TRUE,TRUE
+FileUploadAndDownloadSecuritySettings,TRUE,TRUE,FALSE
+FlexiPage,TRUE,TRUE,TRUE
+Flow,TRUE,TRUE,TRUE
+FlowCategory,TRUE,TRUE,TRUE
+FlowDefinition,TRUE,TRUE,TRUE
+ForecastingSettings,TRUE,TRUE,FALSE
+Form,TRUE,TRUE,TRUE
+FormSection,TRUE,Expanded Source Tracking (Beta),TRUE
+GlobalPicklistValue,TRUE,Expanded Source Tracking (Beta),TRUE
+GlobalValueSet,TRUE,TRUE,TRUE
+GlobalValueSetTranslation,TRUE,FALSE,FALSE
+Group,TRUE,TRUE,Requires Package without a Namespace
+HomePageComponent,TRUE,TRUE,TRUE
+HomePageLayout,TRUE,TRUE,TRUE
+IdeasSettings,TRUE,TRUE,FALSE
+Index,TRUE,TRUE,TRUE
+InstalledPackage,TRUE,Expanded Source Tracking (Beta),TRUE
+IntegrationHubSettings,TRUE,TRUE,TRUE
+IntegrationHubSettingsType,TRUE,TRUE,TRUE
+KeywordList,TRUE,TRUE,Requires Package without a Namespace
+KnowledgeSettings,TRUE,TRUE,FALSE
+Layout,TRUE,TRUE,TRUE
+LeadConvertSettings,TRUE,Expanded Source Tracking (Beta),TRUE
+Letterhead,TRUE,TRUE,TRUE
+LicenseDefinition,TRUE,TRUE,TRUE
+LightningBolt,TRUE,TRUE,TRUE
+LightningComponentBundle,TRUE,TRUE,TRUE
+LightningExperienceTheme,TRUE,TRUE,TRUE
+ListView,TRUE,TRUE,TRUE
+LiveAgentSettings,TRUE,TRUE,FALSE
+LiveChatAgentConfig,TRUE,TRUE,FALSE
+LiveChatButton,TRUE,TRUE,FALSE
+LiveChatDeployment,TRUE,TRUE,FALSE
+LiveChatSensitiveDataRule,TRUE,TRUE,TRUE
+LiveMessageSettings,TRUE,FALSE,FALSE
+MacroSettings,TRUE,TRUE,FALSE
+ManagedTopics,TRUE,FALSE,FALSE
+MarketingActionSettings,TRUE,TRUE,FALSE
+MarketingResourceType,TRUE,TRUE,TRUE
+MatchingRules,TRUE,TRUE,TRUE
+MilestoneType,TRUE,TRUE,Requires Package without a Namespace
+MlDomain,TRUE,FALSE,TRUE
+MobileSettings,TRUE,TRUE,FALSE
+ModerationRule,TRUE,TRUE,Requires Package without a Namespace
+NamedCredential,TRUE,TRUE,TRUE
+NameSettings,TRUE,TRUE,FALSE
+Network,TRUE,TRUE,FALSE
+NetworkBranding,TRUE,TRUE,FALSE
+OpportunitySettings,TRUE,TRUE,FALSE
+Orchestration,TRUE,TRUE,TRUE
+OrchestrationContext,TRUE,TRUE,TRUE
+OrderSettings,TRUE,TRUE,FALSE
+OrgPreferenceSettings,TRUE,TRUE,FALSE
+Package,TRUE,FALSE,FALSE
+PathAssistant,TRUE,TRUE,TRUE
+PathAssistantSettings,TRUE,FALSE,FALSE
+PermissionSet,TRUE,TRUE,TRUE
+PermissionSetGroup,TRUE,Expanded Source Tracking (Beta),Requires Package without a Namespace
+PermissionSetLicense,TRUE,Expanded Source Tracking (Beta),TRUE
+PersonalJourneySettings,TRUE,FALSE,FALSE
+PersonListSettings,TRUE,FALSE,FALSE
+PicklistValue,TRUE,Expanded Source Tracking (Beta),TRUE
+PlatformActionList,TRUE,Expanded Source Tracking (Beta),TRUE
+PlatformCachePartition,TRUE,TRUE,TRUE
+Portal,TRUE,Expanded Source Tracking (Beta),TRUE
+PostTemplate,TRUE,TRUE,FALSE
+ProductSettings,TRUE,TRUE,FALSE
+Profile,TRUE,TRUE,TRUE
+ProfilePasswordPolicy,TRUE,FALSE,TRUE
+ProfileSessionSetting,TRUE,FALSE,TRUE
+Queue,TRUE,TRUE,Requires Package without a Namespace
+QuickAction,TRUE,TRUE,TRUE
+QuoteSettings,TRUE,TRUE,FALSE
+RecommendationStrategy,TRUE,FALSE,TRUE
+RecordType,TRUE,TRUE,TRUE
+RemoteSiteSetting,TRUE,TRUE,TRUE
+Report,TRUE,TRUE,TRUE
+ReportFolder,TRUE,TRUE,TRUE
+ReportType,TRUE,TRUE,TRUE
+Role,TRUE,TRUE,Requires Package without a Namespace
+SamlSsoConfig,TRUE,TRUE,TRUE
+Scontrol,TRUE,TRUE,TRUE
+SearchSettings,TRUE,FALSE,FALSE
+SecuritySettings,TRUE,TRUE,FALSE
+SessionLevelPolicy,TRUE,TRUE,TRUE
+SharingCriteriaRule,TRUE,TRUE,FALSE
+SharingOwnerRule,TRUE,TRUE,FALSE
+SharingReason,TRUE,TRUE,TRUE
+SharingRules,TRUE,TRUE,FALSE
+SharingSet,TRUE,TRUE,Requires Package without a Namespace
+SharingTerritoryRule,TRUE,TRUE,Requires Package without a Namespace
+SiteDotCom,TRUE,TRUE,FALSE
+Skill,TRUE,TRUE,FALSE
+SocialCustomerServiceSettings,TRUE,FALSE,FALSE
+StandardValue,TRUE,Expanded Source Tracking (Beta),TRUE
+StandardValueSet,TRUE,Expanded Source Tracking (Beta),TRUE
+StandardValueSetTranslation,TRUE,FALSE,FALSE
+StaticResource,TRUE,TRUE,TRUE
+SynonymDictionary,TRUE,Expanded Source Tracking (Beta),TRUE
+Territory,TRUE,TRUE,Requires Package without a Namespace
+Territory2,TRUE,TRUE,TRUE
+Territory2Model,TRUE,TRUE,TRUE
+Territory2Rule,TRUE,TRUE,Requires Package without a Namespace
+Territory2Settings,TRUE,FALSE,FALSE
+Territory2Type,TRUE,TRUE,Requires Package without a Namespace
+TopicsForObjects,TRUE,Expanded Source Tracking (Beta),TRUE
+TransactionSecurityPolicy,TRUE,TRUE,TRUE
+Translations,TRUE,TRUE,Requires Package without a Namespace
+UiPlugin,TRUE,Expanded Source Tracking (Beta),TRUE
+User,TRUE,FALSE,TRUE
+UserCriteria,TRUE,TRUE,Requires Package without a Namespace
+UserLicense,TRUE,FALSE,TRUE
+UserMapped,TRUE,FALSE,TRUE
+ValidationRule,TRUE,TRUE,TRUE
+VisualizationPlugin,TRUE,TRUE,TRUE
+WaveApplication,TRUE,TRUE,TRUE
+WaveDashboard,TRUE,TRUE,TRUE
+WaveDataflow,TRUE,TRUE,TRUE
+WaveDataset,TRUE,TRUE,TRUE
+WaveLens,TRUE,TRUE,TRUE
+WaveRecipe,TRUE,TRUE,TRUE
+WaveTemplateBundle,TRUE,TRUE,TRUE
+WaveXmd,TRUE,TRUE,TRUE
+WebLink,TRUE,TRUE,TRUE
+Workflow,TRUE,TRUE,TRUE
+WorkflowAlert,TRUE,TRUE,TRUE
+WorkflowFieldUpdate,TRUE,TRUE,TRUE
+WorkflowFlowAction,TRUE,TRUE,TRUE
+WorkflowKnowledgePublish,TRUE,TRUE,TRUE
+WorkflowOutboundMessage,TRUE,TRUE,TRUE
+WorkflowRule,TRUE,TRUE,TRUE
+WorkflowSend,TRUE,TRUE,TRUE
+WorkflowTask,TRUE,TRUE,TRUE
