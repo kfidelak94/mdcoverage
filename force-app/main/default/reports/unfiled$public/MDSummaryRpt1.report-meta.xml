@@ -16,6 +16,12 @@
         <field>MD_Type__c.WorkItems__r$WorkItemDescription__c</field>
     </columns>
     <columns>
+        <field>MD_Type__c.WorkItems__r$MDChannelAffected__c</field>
+    </columns>
+    <columns>
+        <field>MD_Type__c.WorkItems__r$KI_Link__c</field>
+    </columns>
+    <columns>
         <field>MD_Type__c.WorkItems__r$WorkItemOwningTeam__c</field>
     </columns>
     <columns>

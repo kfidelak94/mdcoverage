@@ -148,6 +148,26 @@
             <field>Id</field>
             <table>MD_Type__c.WorkItems__r</table>
         </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>KI_Link__c</field>
+            <table>MD_Type__c.WorkItems__r</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>KI_Id__c</field>
+            <table>MD_Type__c.WorkItems__r</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>KI_Link_with_count__c</field>
+            <table>MD_Type__c.WorkItems__r</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>MDChannelAffected__c</field>
+            <table>MD_Type__c.WorkItems__r</table>
+        </columns>
         <masterLabel>WorkItems</masterLabel>
     </sections>
 </ReportType>
