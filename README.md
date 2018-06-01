@@ -10,7 +10,7 @@ To use:
       sfdx force:source:push -u testmdcoverage
 - Open scratch org: 
       sfdx force:org:open -u testmdcoverage
-
+      
 The source files contain a sample app called "MD Coverage", 2 custom reports (MDSummaryRpt1 and MDSummaryRpt2), and 2 custom objects (MD_Type, WorkItem).
 
 To view the MD Coverage app, go to App Launcher in the scratch org, and select "MD Coverage" app.
