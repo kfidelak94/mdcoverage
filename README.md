@@ -4,9 +4,12 @@ This repository contains sample SFDX source files and data files for the enhance
 
 To use:
 
-- Create a SFDX scratch org:  sfdx force:org:create -f config/project-scratch-def.json -a testmdcoverage
-- Push source into scratch org:  sfdx force:source:push -u testmdcoverage
-- Open scratch org: sfdx force:org:open -u testmdcoverage
+- Create a SFDX scratch org:  
+      sfdx force:org:create -f config/project-scratch-def.json -a testmdcoverage
+- Push source into scratch org:  
+      sfdx force:source:push -u testmdcoverage
+- Open scratch org: 
+      sfdx force:org:open -u testmdcoverage
 
 The source files contain a sample app called "MD Coverage", 2 custom reports (MDSummaryRpt1 and MDSummaryRpt2), and 2 custom objects (MD_Type, WorkItem).
 
